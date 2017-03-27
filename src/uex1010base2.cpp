@@ -99,6 +99,8 @@ void pruebasBasicas(){
 	entornoTerminar();
 }
 int main() {
+	cout << "Me suda el rabo lo que diga Alberto"<<endl;
+	cout << "Puto maricon de mierda"<<endl;
 	srand(time(NULL));
 	juego();
 	//pruebasBasicas();
