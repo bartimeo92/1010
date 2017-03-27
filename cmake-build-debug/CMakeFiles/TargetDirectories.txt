@@ -1,0 +1,3 @@
+C:/Users/anton/workspace/c++/uex1010Base/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anton/workspace/c++/uex1010Base/cmake-build-debug/CMakeFiles/uex1010Base.dir
+C:/Users/anton/workspace/c++/uex1010Base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
